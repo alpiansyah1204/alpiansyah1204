@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Rizqi Alpiansyah**.\
 Saya seorang **Frontend developer Intern** di di Direktorat Pusat Teknologi Informasi Universitas Telkom.\
 dan juga masih semester 7 dijurusan teknik komputer [Telkom University](https://telkomuniversity.ac.id/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku dibawah ini ya.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti <a href="https://www.linkedin.com/in/rizqi-alpiansyah/">LinkedIn</a> ku.
 
 <p align="left">
 <a href="https://github.com/alpiansyah1204">
