@@ -6,4 +6,4 @@ Saya seorang **Frontend developer Intern** di di Direktorat Pusat Teknologi Info
 
 dan juga masih semester 7 dijurusan teknik komputer [Telkom University](https://telkomuniversity.ac.id/).
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rizqi-alpiansyah/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun ku dibawah ini ya.
