@@ -1,6 +1,6 @@
-# Halo semua! 
+# Halo! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Rizqi Alpiansyah**.\
 
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 
